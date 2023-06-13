@@ -17,7 +17,7 @@ body{
     flex-direction: column;
     background-color: white;
     height: auto;
-    max-width: 375px;
+    max-width: 370px;
     border-radius: 15px;
     margin: auto;
     margin-top: 70px;
@@ -39,7 +39,7 @@ padding-right: 1rem;
     margin:1rem;
     color: hsl(223, 47%, 23%);
     font-weight: 900;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 p {

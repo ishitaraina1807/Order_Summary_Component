@@ -51,7 +51,7 @@ p {
     background-color: hsl(225, 100%, 98%);
     display: flex;
     flex-direction: row;
-    padding: 2rem;
+    padding: 1rem;
     align-items: center;
     justify-content: space-between;
 }
@@ -79,11 +79,10 @@ button{
     padding: 30px;
 }
 .para{
-    padding: 1rem 4rem;  
+    padding: 0rem 2rem;  
 }
 .plan{
     justify-content: space-between;
-    padding: 0rem 0.6rem;
     font-weight: 900;
     color: hsl(223, 47%, 23%);
     font-size: 13px;
@@ -96,7 +95,7 @@ button{
     font-size: 13px;
 }
 .order{
-    padding: 2rem;
+    padding: 1rem;
     font-size: 15px;
 }
 .order-delete {

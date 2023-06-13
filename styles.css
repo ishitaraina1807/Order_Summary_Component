@@ -45,6 +45,7 @@ p {
     color: hsl(224, 23%, 55%);
     text-align: center;
     font-weight: 500;
+    line-height: 20px;
 }
 .wrapper{
     border-radius: 15px;
@@ -52,7 +53,7 @@ p {
     background-color: hsl(225, 100%, 98%);
     display: flex;
     flex-direction: row;
-    padding: 1rem;
+    padding: 0.5rem;
     align-items: center;
     justify-content: space-between;
 }
